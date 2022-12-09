@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Recursion\Rec_Fib\bin\Debug\net6.0\Rec_Fib.exe
+C:\Users\PC\Desktop\Recursion\Rec_Fib\bin\Debug\net6.0\Rec_Fib.deps.json
+C:\Users\PC\Desktop\Recursion\Rec_Fib\bin\Debug\net6.0\Rec_Fib.runtimeconfig.json
+C:\Users\PC\Desktop\Recursion\Rec_Fib\bin\Debug\net6.0\Rec_Fib.dll
+C:\Users\PC\Desktop\Recursion\Rec_Fib\bin\Debug\net6.0\Rec_Fib.pdb
+C:\Users\PC\Desktop\Recursion\Rec_Fib\obj\Debug\net6.0\Rec_Fib.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Recursion\Rec_Fib\obj\Debug\net6.0\Rec_Fib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Recursion\Rec_Fib\obj\Debug\net6.0\Rec_Fib.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Recursion\Rec_Fib\obj\Debug\net6.0\Rec_Fib.AssemblyInfo.cs
+C:\Users\PC\Desktop\Recursion\Rec_Fib\obj\Debug\net6.0\Rec_Fib.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Recursion\Rec_Fib\obj\Debug\net6.0\Rec_Fib.dll
+C:\Users\PC\Desktop\Recursion\Rec_Fib\obj\Debug\net6.0\refint\Rec_Fib.dll
+C:\Users\PC\Desktop\Recursion\Rec_Fib\obj\Debug\net6.0\Rec_Fib.pdb
+C:\Users\PC\Desktop\Recursion\Rec_Fib\obj\Debug\net6.0\Rec_Fib.genruntimeconfig.cache
+C:\Users\PC\Desktop\Recursion\Rec_Fib\obj\Debug\net6.0\ref\Rec_Fib.dll

@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Recursion\Rec_Euk\bin\Debug\net6.0\Rec_Euk.exe
+C:\Users\PC\Desktop\Recursion\Rec_Euk\bin\Debug\net6.0\Rec_Euk.deps.json
+C:\Users\PC\Desktop\Recursion\Rec_Euk\bin\Debug\net6.0\Rec_Euk.runtimeconfig.json
+C:\Users\PC\Desktop\Recursion\Rec_Euk\bin\Debug\net6.0\Rec_Euk.dll
+C:\Users\PC\Desktop\Recursion\Rec_Euk\bin\Debug\net6.0\Rec_Euk.pdb
+C:\Users\PC\Desktop\Recursion\Rec_Euk\obj\Debug\net6.0\Rec_Euk.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Recursion\Rec_Euk\obj\Debug\net6.0\Rec_Euk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Recursion\Rec_Euk\obj\Debug\net6.0\Rec_Euk.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Recursion\Rec_Euk\obj\Debug\net6.0\Rec_Euk.AssemblyInfo.cs
+C:\Users\PC\Desktop\Recursion\Rec_Euk\obj\Debug\net6.0\Rec_Euk.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Recursion\Rec_Euk\obj\Debug\net6.0\Rec_Euk.dll
+C:\Users\PC\Desktop\Recursion\Rec_Euk\obj\Debug\net6.0\refint\Rec_Euk.dll
+C:\Users\PC\Desktop\Recursion\Rec_Euk\obj\Debug\net6.0\Rec_Euk.pdb
+C:\Users\PC\Desktop\Recursion\Rec_Euk\obj\Debug\net6.0\Rec_Euk.genruntimeconfig.cache
+C:\Users\PC\Desktop\Recursion\Rec_Euk\obj\Debug\net6.0\ref\Rec_Euk.dll
