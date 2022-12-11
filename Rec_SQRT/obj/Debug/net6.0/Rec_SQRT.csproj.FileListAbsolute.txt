@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Recursion\Rec_SQRT\obj\Debug\net6.0\Rec_SQRT.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Recursion\Rec_SQRT\obj\Debug\net6.0\Rec_SQRT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Recursion\Rec_SQRT\obj\Debug\net6.0\Rec_SQRT.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Recursion\Rec_SQRT\obj\Debug\net6.0\Rec_SQRT.AssemblyInfo.cs
+C:\Users\PC\Desktop\Recursion\Rec_SQRT\obj\Debug\net6.0\Rec_SQRT.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Recursion\Rec_SQRT\bin\Debug\net6.0\Rec_SQRT.exe
+C:\Users\PC\Desktop\Recursion\Rec_SQRT\bin\Debug\net6.0\Rec_SQRT.deps.json
+C:\Users\PC\Desktop\Recursion\Rec_SQRT\bin\Debug\net6.0\Rec_SQRT.runtimeconfig.json
+C:\Users\PC\Desktop\Recursion\Rec_SQRT\bin\Debug\net6.0\Rec_SQRT.dll
+C:\Users\PC\Desktop\Recursion\Rec_SQRT\bin\Debug\net6.0\Rec_SQRT.pdb
+C:\Users\PC\Desktop\Recursion\Rec_SQRT\obj\Debug\net6.0\Rec_SQRT.dll
+C:\Users\PC\Desktop\Recursion\Rec_SQRT\obj\Debug\net6.0\refint\Rec_SQRT.dll
+C:\Users\PC\Desktop\Recursion\Rec_SQRT\obj\Debug\net6.0\Rec_SQRT.pdb
+C:\Users\PC\Desktop\Recursion\Rec_SQRT\obj\Debug\net6.0\Rec_SQRT.genruntimeconfig.cache
+C:\Users\PC\Desktop\Recursion\Rec_SQRT\obj\Debug\net6.0\ref\Rec_SQRT.dll
