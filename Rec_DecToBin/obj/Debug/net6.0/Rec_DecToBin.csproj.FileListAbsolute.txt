@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Recursion\Rec_DecToBin\obj\Debug\net6.0\Rec_DecToBin.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Recursion\Rec_DecToBin\obj\Debug\net6.0\Rec_DecToBin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Recursion\Rec_DecToBin\obj\Debug\net6.0\Rec_DecToBin.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Recursion\Rec_DecToBin\obj\Debug\net6.0\Rec_DecToBin.AssemblyInfo.cs
+C:\Users\PC\Desktop\Recursion\Rec_DecToBin\obj\Debug\net6.0\Rec_DecToBin.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Recursion\Rec_DecToBin\bin\Debug\net6.0\Rec_DecToBin.exe
+C:\Users\PC\Desktop\Recursion\Rec_DecToBin\bin\Debug\net6.0\Rec_DecToBin.deps.json
+C:\Users\PC\Desktop\Recursion\Rec_DecToBin\bin\Debug\net6.0\Rec_DecToBin.runtimeconfig.json
+C:\Users\PC\Desktop\Recursion\Rec_DecToBin\bin\Debug\net6.0\Rec_DecToBin.dll
+C:\Users\PC\Desktop\Recursion\Rec_DecToBin\bin\Debug\net6.0\Rec_DecToBin.pdb
+C:\Users\PC\Desktop\Recursion\Rec_DecToBin\obj\Debug\net6.0\Rec_DecToBin.dll
+C:\Users\PC\Desktop\Recursion\Rec_DecToBin\obj\Debug\net6.0\refint\Rec_DecToBin.dll
+C:\Users\PC\Desktop\Recursion\Rec_DecToBin\obj\Debug\net6.0\Rec_DecToBin.pdb
+C:\Users\PC\Desktop\Recursion\Rec_DecToBin\obj\Debug\net6.0\Rec_DecToBin.genruntimeconfig.cache
+C:\Users\PC\Desktop\Recursion\Rec_DecToBin\obj\Debug\net6.0\ref\Rec_DecToBin.dll
