@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Recursion\AriphmeticProgression\obj\Debug\net6.0\AriphmeticProgression.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Recursion\AriphmeticProgression\obj\Debug\net6.0\AriphmeticProgression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Recursion\AriphmeticProgression\obj\Debug\net6.0\AriphmeticProgression.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Recursion\AriphmeticProgression\obj\Debug\net6.0\AriphmeticProgression.AssemblyInfo.cs
+C:\Users\PC\Desktop\Recursion\AriphmeticProgression\obj\Debug\net6.0\AriphmeticProgression.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Recursion\AriphmeticProgression\bin\Debug\net6.0\AriphmeticProgression.exe
+C:\Users\PC\Desktop\Recursion\AriphmeticProgression\bin\Debug\net6.0\AriphmeticProgression.deps.json
+C:\Users\PC\Desktop\Recursion\AriphmeticProgression\bin\Debug\net6.0\AriphmeticProgression.runtimeconfig.json
+C:\Users\PC\Desktop\Recursion\AriphmeticProgression\bin\Debug\net6.0\AriphmeticProgression.dll
+C:\Users\PC\Desktop\Recursion\AriphmeticProgression\bin\Debug\net6.0\AriphmeticProgression.pdb
+C:\Users\PC\Desktop\Recursion\AriphmeticProgression\obj\Debug\net6.0\AriphmeticProgression.dll
+C:\Users\PC\Desktop\Recursion\AriphmeticProgression\obj\Debug\net6.0\refint\AriphmeticProgression.dll
+C:\Users\PC\Desktop\Recursion\AriphmeticProgression\obj\Debug\net6.0\AriphmeticProgression.pdb
+C:\Users\PC\Desktop\Recursion\AriphmeticProgression\obj\Debug\net6.0\AriphmeticProgression.genruntimeconfig.cache
+C:\Users\PC\Desktop\Recursion\AriphmeticProgression\obj\Debug\net6.0\ref\AriphmeticProgression.dll
